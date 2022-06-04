@@ -1,0 +1,1 @@
+cmd='C:/Users/ASUS/.espressif/tools/cmake/3.23.1/bin/cmake.exe;-DSDKCONFIG=D:/esp32-workspace/gpio_button/sdkconfig;-DIDF_PATH=D:/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=D:/esp-idf/components/bootloader;-DPROJECT_SOURCE_DIR=D:/esp32-workspace/gpio_button;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
